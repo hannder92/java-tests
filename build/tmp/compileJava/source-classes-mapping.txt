@@ -1,0 +1,32 @@
+com/platzi/javatests/util/PasswordUtil.java
+ com.platzi.javatests.util.PasswordUtil
+ com.platzi.javatests.util.PasswordUtil$SecurityLevel
+com/platzi/javatests/payments/PaymentProcessor.java
+ com.platzi.javatests.payments.PaymentProcessor
+com/platzi/javatests/movies/model/Genre.java
+ com.platzi.javatests.movies.model.Genre
+com/platzi/javatests/payments/PaymentRequest.java
+ com.platzi.javatests.payments.PaymentRequest
+com/platzi/javatests/player/Player.java
+ com.platzi.javatests.player.Player
+com/platzi/javatests/player/Dice.java
+ com.platzi.javatests.player.Dice
+com/platzi/javatests/payments/PaymentGateway.java
+ com.platzi.javatests.payments.PaymentGateway
+com/platzi/javatests/util/DateUtil.java
+ com.platzi.javatests.util.DateUtil
+com/platzi/javatests/discounts/PriceCalculator.java
+ com.platzi.javatests.discounts.PriceCalculator
+com/platzi/javatests/util/StringUtil.java
+ com.platzi.javatests.util.StringUtil
+com/platzi/javatests/payments/PaymentResponse.java
+ com.platzi.javatests.payments.PaymentResponse
+ com.platzi.javatests.payments.PaymentResponse$PaymentStatus
+com/platzi/javatests/movies/model/Movie.java
+ com.platzi.javatests.movies.model.Movie
+com/platzi/javatests/movies/data/MovieRepository.java
+ com.platzi.javatests.movies.data.MovieRepository
+com/platzi/javatests/movies/service/MovieService.java
+ com.platzi.javatests.movies.service.MovieService
+com/platzi/javatests/movies/data/MovieRepositoryImpl.java
+ com.platzi.javatests.movies.data.MovieRepositoryImpl

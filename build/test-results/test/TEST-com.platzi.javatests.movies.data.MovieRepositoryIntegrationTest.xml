@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.platzi.javatests.movies.data.MovieRepositoryIntegrationTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-06-07T21:04:24" hostname="DESKTOP-SVCSONN" time="0.201">
+  <properties/>
+  <testcase name="loadMovieById()" classname="com.platzi.javatests.movies.data.MovieRepositoryIntegrationTest" time="0.189"/>
+  <testcase name="insertAMovie()" classname="com.platzi.javatests.movies.data.MovieRepositoryIntegrationTest" time="0.006"/>
+  <testcase name="loadAllMovies()" classname="com.platzi.javatests.movies.data.MovieRepositoryIntegrationTest" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,16 @@
+com/platzi/javatests/util/PasswordUtilTest.java
+ com.platzi.javatests.util.PasswordUtilTest
+com/platzi/javatests/player/PlayerTest.java
+ com.platzi.javatests.player.PlayerTest
+com/platzi/javatests/payments/PaymentProcessorTest.java
+ com.platzi.javatests.payments.PaymentProcessorTest
+com/platzi/javatests/discounts/PriceCalculatorShould.java
+ com.platzi.javatests.discounts.PriceCalculatorShould
+com/platzi/javatests/util/DateUtilLeapYearShould.java
+ com.platzi.javatests.util.DateUtilLeapYearShould
+com/platzi/javatests/util/StringUtilTest.java
+ com.platzi.javatests.util.StringUtilTest
+com/platzi/javatests/movies/service/MovieServiceShould.java
+ com.platzi.javatests.movies.service.MovieServiceShould
+com/platzi/javatests/movies/data/MovieRepositoryIntegrationTest.java
+ com.platzi.javatests.movies.data.MovieRepositoryIntegrationTest
